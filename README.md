@@ -5,6 +5,18 @@
  * [秀和システム詳細ページ](http://www.shuwasystem.co.jp/products/7980html/4740.html)
  * [Amazon サイト](https://www.amazon.co.jp/dp/4798047406)
 
+### 著者告知
+
+|名前|URL| 
+|---|---|
+|竹林 崇|http://changesworlds.com/2016/09/tried-agile-publishing/|
+|亀川 和史|http://kkamegawa.hatenablog.jp/entry/2016/09/13/203628| 
+|清水 頼行|http://blackssi.cocolog-nifty.com/blog/2016/09/post-a080.html| 
+|中村 薫|http://www.naturalsoftware.jp/entry/2016/09/13/211549| 
+
+ 
+
+
 ## 書籍仕様
 
 |項目|仕様| 
