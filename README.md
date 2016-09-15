@@ -4,6 +4,7 @@
 
  * [秀和システム詳細ページ](http://www.shuwasystem.co.jp/products/7980html/4740.html)
  * [Amazon サイト](https://www.amazon.co.jp/dp/4798047406)
+ * [著者サイト(GitHub)](https://github.com/tfsugj/TeamDevBook)
 
 ### 著者告知
 
